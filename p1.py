@@ -3,7 +3,7 @@
 # Aluna: Tarsila Tereza Santos Pinheiro
 # Universidade Federal do Maranhão
 # Bacharelado Interdisciplinar em Ciência e Tecnologia
-
+# 20/11/2023
 
 # Crie três vetores. Os valores devem ser adicionados até o usuário digitar um valor negativo. Faça a interseção, a união e diferença.
 
